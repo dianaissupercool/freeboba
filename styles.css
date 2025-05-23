@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: purple;
+    max-width: 800px;
+    margin: 0 auto;
+    background: lightgreen
+    
+}
+
+h1 {
+    color: purple;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+img{width:400px}
